@@ -116,7 +116,7 @@ DevMind-AI/
 |---|---|---|
 | `ALLOWED_ORIGINS` | Optional | CORS allowed origins (default: `*`) |
 
-## Tech Stack
+## Tech Stack Used
 
 **Frontend:** React 19, Vite 6, Framer Motion, Tailwind CSS, Lucide Icons, React Markdown
 
